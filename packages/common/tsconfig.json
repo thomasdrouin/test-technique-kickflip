@@ -1,0 +1,27 @@
+{
+  "compilerOptions": {
+    "baseUrl": "src",
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "module": "CommonJS",
+    "target": "ES6",
+    "outDir": "dist",
+    "noEmit": true,
+    "declaration": true,
+    "lib": [
+      "ES6",
+      "dom"
+    ],
+    "sourceMap": true,
+    "noEmitOnError": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "types": [
+      "node",
+      "jest"
+    ]
+  },
+  "include": [
+    "src"
+  ]
+}

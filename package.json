@@ -1,0 +1,25 @@
+{
+  "name": "test-technique-kickflip",
+  "version": "1.0.0",
+  "description": "Test technique kickflip",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  },
+  "scripts": {
+    "fe": "yarn workspace @monorepo/fe",
+    "common": "yarn workspace @monorepo/common"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomasdrouin/test-technique-kickflip.git"
+  },
+  "author": "Thomas Drouin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thomasdrouin/test-technique-kickflip/issues"
+  },
+  "homepage": "https://github.com/thomasdrouin/test-technique-kickflip#readme"
+}

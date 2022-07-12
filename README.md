@@ -1,7 +1,7 @@
 # Kickflip technical test
 
-This is a monorepo for the kickflip technical test
-The `common` package contains the Question 1 function and its test.
+This is a monorepo for the kickflip technical test.\
+The `common` package contains the Question 1 function and its test.\
 The `front` package contains a react app for the question 2.
 
 ## Install
